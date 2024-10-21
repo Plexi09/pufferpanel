@@ -3,7 +3,7 @@
   "Save": "Enregistrer le modèle",
   "Saved": "Modèle enregistré",
   "Delete": "Supprimer le modèle",
-  "ConfirmDelete": "Voulez-vous vraiment supprimer ce modèle {name} ?",
+  "ConfirmDelete": "Voulez-vous vraiment supprimer le modèle {name} ?",
   "Deleted": "Modèle supprimé",
   "New": "Créer un nouveau modèle",
   "EditLocalOnly": "Vous pouvez seulement enregistrer les modifications apportées aux modèles locaux",
@@ -35,7 +35,7 @@
   "StopSignal": "Arrêter le signal",
   "NoGroup": "Aucun groupe",
   "AddVariableGroup": "Ajouter un Groupe de Variables",
-  "CommandConditionHint": "Utiliser cette commande uniquement si cette condition est remplie",
+  "CommandConditionHint": "Utiliser cette commande uniquement si cette condition est valide",
   "AddCommand": "Ajouter une Commande",
   "AddEnvironment": "Ajouter un Environnement",
   "signals": {
@@ -60,7 +60,7 @@
     "Options": "Options",
     "ConditionHint": "Afficher ce groupe uniquement si cette condition est remplie",
     "types": {
-      "String": "Texte",
+      "String": "Chaîne de caractères",
       "Boolean": "Booléen",
       "Number": "Nombre",
       "Options": "Options"

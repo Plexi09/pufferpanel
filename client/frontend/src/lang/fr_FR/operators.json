@@ -18,7 +18,7 @@
     "files": "Fichiers"
   },
   "command": {
-    "generic": "Exécuter le(s) commande(s)",
+    "generic": "Exécuter la ou les commandes",
     "formatted": "Exécuter {command} | Exécuter les commandes {n}",
     "commands": "Commandes"
   },
@@ -41,8 +41,8 @@
   },
   "steamgamedl": {
     "generic": "Installer depuis Steam",
-    "formatted": "Installer Steam App ID {appId}",
-    "appId": "ID de l'app Steam"
+    "formatted": "Installer l'application Steam ID {appId}",
+    "appId": "ID de l'application Steam"
   },
   "javadl": {
     "generic": "Installer Java",

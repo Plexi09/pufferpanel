@@ -57,7 +57,7 @@
   "ServersEdit": "Éditer le serveur",
   "ServersInstall": "Installer le serveur",
   "ServersConsole": "Voir la console",
-  "ServersConsoleSend": "Envoyer une commande vers la console",
+  "ServersConsoleSend": "Envoyer une commande dans la console",
   "ServersStop": "Arrêter et tuer le serveur",
   "ServersStart": "Démarrer le serveur",
   "ServersStat": "Voir les statistiques du CPU et de la mémoire",

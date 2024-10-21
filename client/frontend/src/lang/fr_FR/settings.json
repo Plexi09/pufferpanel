@@ -1,8 +1,8 @@
 {
   "Settings": "Paramètres",
-  "PanelSettings": "Paramètres panel",
+  "PanelSettings": "Paramètres du panel",
   "SavePanelSettings": "Enregistrer les paramètres du panel",
-  "EmailSettings": "Paramètres e-mail",
+  "EmailSettings": "Paramètres d'e-mail",
   "SaveEmailSettings": "Enregistrer les paramètres d'E-mail",
   "MasterUrl": "URL principale",
   "MasterUrlHint": "L'URL de base du panel est accessible sous le format http://localhost:8080",
